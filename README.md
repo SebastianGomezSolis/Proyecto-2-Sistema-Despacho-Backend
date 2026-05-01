@@ -2,9 +2,6 @@
 
 Módulo servidor del sistema de gestión de recetas médicas FarmaApp. Contiene exclusivamente las capas de **datos**, **lógica de negocio** y **servicios TCP**, sin dependencias de JavaFX ni controladores de UI.
 
-> **Curso:** EIF206 – Programación 3 | **Período:** 2025-II | **Universidad Nacional – Escuela de Informática**
-> **Repositorio del Frontend:** [enlace al repo del frontend]
-
 ---
 
 ## Integrantes
