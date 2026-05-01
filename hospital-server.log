@@ -1,0 +1,12 @@
+abr 15, 2026 10:42:41 P. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer start
+INFO: Iniciando el servidor en el puerto: 6000
+abr 15, 2026 10:46:38 P. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer start
+INFO: Iniciando el servidor en el puerto: 6000
+abr 15, 2026 10:47:16 P. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer start
+INFO: Conexion aceptada desde: /127.0.0.1:54618
+abr 15, 2026 10:47:16 P. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer register
+INFO: Usuario registrado: Sebas
+abr 15, 2026 10:47:19 P. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer remove
+INFO: Cliente eliminado de la conexion: Sebas
+abr 23, 2026 1:35:36 A. M. una.sistema.backend.proyecto2sistemadespachobackend.servicios.chat.HospitalChatServer start
+INFO: Iniciando el servidor en el puerto: 6000
